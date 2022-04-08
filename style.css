@@ -28,12 +28,12 @@ body {
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 64px;
   font-weight: 800;
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 48px;
   font-weight: 800;
 }
 
@@ -61,7 +61,7 @@ strong {
   max-width: 450px;
   width: 100%;
   padding: 25px 44px;
-  margin-top: 75px;
+  margin-top: 55px;
   text-decoration: none;
   color: var(--dark);
   background: var(--yellow);
@@ -92,14 +92,14 @@ strong {
 }
 
 .container {
-  padding: 95px 380px;
+  padding: 70px 380px;
   width: 100%;
   margin: 0 auto;
 }
 
 .title {
   font-family: "Montserrat", sans-serif;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
 }
 
 .hero {
