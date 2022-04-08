@@ -19,6 +19,14 @@ body {
   color: var(--dark);
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--yellow);
+}
+
 h1 {
   font-size: 70px;
   font-weight: 800;
